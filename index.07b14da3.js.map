@@ -1,0 +1,1 @@
+{"mappings":"YAAAA,QAAQC,IAAI,MAKZD,QAAQC,IAAI,MAAOC,G","sources":["src/index.js"],"sourcesContent":["console.log('hi');\nconst a = 5;\n\n\nconst b = 15\nconsole.log('a+b', a + b)\n"],"names":["console","log","$b8f9b7833fa37166$var$a"],"version":3,"file":"index.07b14da3.js.map"}
